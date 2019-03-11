@@ -13,3 +13,6 @@ dependencies:
   - dask
   - seaborn
   - missingno
+  - itertools
+  - sklearn
+  - xgboost
