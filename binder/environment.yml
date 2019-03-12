@@ -14,5 +14,7 @@ dependencies:
   - seaborn
   - missingno
   - itertools
-  - sklearn
+  - sklearn.preprocessing
+  - sklearn.model_selection
+  - sklearn.model_selection
   - xgboost
