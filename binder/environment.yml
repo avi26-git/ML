@@ -2,19 +2,15 @@ name: example-environment
 channels:
   - conda-forge
 dependencies:
+  - python=3.5
   - numpy
-  - psutil
-  - toolz
+  - scipy
   - matplotlib
-  - dill
   - pandas
-  - partd
+  - scikit-learn
+  - matplotlib
   - bokeh
-  - dask
   - seaborn
   - missingno
   - itertools
-  - sklearn.preprocessing
-  - sklearn.model_selection
-  - sklearn.model_selection
   - xgboost
